@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+#cardsContainer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#cardsContainer li {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
